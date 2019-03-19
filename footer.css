@@ -1,0 +1,37 @@
+footer{
+	height: 147px;
+	background-color: #151f2d;
+}
+.footer{
+	display: inline;
+}
+.footer-logo{
+	padding: 42px 0 0 95px;
+}
+.footer-logo p{
+	font-size: 12px;
+	color: #ffffff;
+	display: inline-block;
+}
+.footer-text{
+	display: inline;
+	padding: 0;
+	font-size: 12px;
+	line-height: 25px;
+	letter-spacing: 0.04em;
+}
+.footer-text p{
+	display: inline;
+	line-height: 105px;
+	margin: 0;
+}
+.phone-footer{
+	line-height: 1.5;
+}
+.phone-footer{
+	color: #ffffff;
+	font-size: 12px;
+	color: #ffffff;
+	display: inline-block;
+	margin: 0;
+}

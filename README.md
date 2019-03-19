@@ -1,1 +1,0 @@
-Choice IOT Landing page

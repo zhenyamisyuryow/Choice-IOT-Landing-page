@@ -1,0 +1,14 @@
+body{
+	padding:0;
+	margin: 0;
+	border: none;
+	font-family: 'Muli', sans-serif;
+	font-weight: 300;
+}
+.container{
+	width: 1110px;
+	padding: 0;
+}
+.padding-0{
+	padding: 0;
+}

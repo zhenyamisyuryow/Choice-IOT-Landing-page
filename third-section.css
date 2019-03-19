@@ -1,0 +1,42 @@
+.third-section{
+	height: 470px;
+	background-color: #f8f8f8;
+}
+.laptop-image{
+	margin-top: 65px;
+}
+.third-section-text{
+	padding: 90px 0 0 0;
+}
+#third-section-title{
+	font-size: 45px;
+	line-height: 60px;
+	letter-spacing: -0.025em;
+	margin: 0 0 45px 0;
+}
+#third-section-subtitle{
+	font-size: 30px;
+	line-height: 30px;
+	letter-spacing: -0.025em;
+	margin: 0 0 55px 0;
+}
+.third-section-button{
+	display: inline-block;
+	width: 220px;
+	height: 57px;
+	border-radius: 50px;
+	background-color: #009cda;
+	color: #ffffff;
+	font-size: 14px;
+	letter-spacing: 0.1em;
+	font-weight: 900;
+	text-decoration: none !important;
+	text-align: center;
+	line-height: 56px;
+}
+.third-section-button:hover{
+	border: 2px solid #009cda;
+	background-color: #ffffff;
+	color: #009cda;
+	line-height: 55px;
+}

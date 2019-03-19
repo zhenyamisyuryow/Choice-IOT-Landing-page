@@ -1,0 +1,27 @@
+.pre-footer{
+	height: 785px;
+	background-color: #151f2d;
+	position: relative;
+}
+.pre-footer::before{
+	content: "";
+	height: 328px;
+	position: absolute;
+	display: block;
+	background-color: #ffffff;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 48%;
+}
+.pre-footer-text{
+	padding: 50px 0 0 0;
+}
+.pre-footer-text p{
+	font-size: 45px;
+	line-height: 60px;
+	margin-bottom: 45px;
+}
+#calendly{
+	padding: 0;
+}

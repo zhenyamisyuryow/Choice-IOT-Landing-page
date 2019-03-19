@@ -1,0 +1,35 @@
+#section-second{
+	height: 565px;
+	background-color: #009cda;
+	position: relative;
+}
+#section-second::before{
+	height: 565px;
+	width: 50%;
+	display: block;
+	content:"";
+	background-image: url(assets/img-side-1.jpg);
+	background-size: cover;
+	position: absolute;
+	top: 0%;
+}
+.container-fluid{
+	padding: 0;
+}
+.section-second-text{
+	padding:70px 0 0 0;
+}
+#second-section-title{
+	margin: 0 0 50px 0;
+	font-size: 40px;
+	line-height: 50px;
+	letter-spacing: -0.02em;
+	color: #ffffff;
+}
+#second-section-subtitle{
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 30px;
+	letter-spacing: -0.035em;
+	color: #ffffff;
+}
